@@ -1,0 +1,2 @@
+# Insurance-risk-and-claims-analysis-dashboard
+Developed an interactive Power Bi dashboard to analyse insurance risk, claim distribution &amp; policy pattern across customer demographics and vehicle attributes. Performed data cleaning &amp; transformation using Power Query and used DAX to create measures for KPI’s, Slicer including derived fields such as age and age group for segmentation analysis. 
