@@ -15,7 +15,7 @@ Tools & Technologies
 • Power Query
 • DAX Functions
 
-Screenshot: https://github.com/leoniypethomas/Insurance-risk-and-claims-analysis-dashboard/blob/main/Dashboard.png
+Screenshot: (https://github.com/leoniypethomas/Insurance-risk-and-claims-analysis-dashboard/blob/main/Dashboard.png)
 
 
 
